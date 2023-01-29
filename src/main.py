@@ -1,5 +1,5 @@
 #------------------------------------------------------------------------------------
-# USCC (Ultra Super Calculation Computer) Headquarter's Instruction Set Architecture RISC
+# USCC (Ultra Super Calculation Computer) Headquarter's Instruction Set Architecture
 
 #  System Design:
 #   - Four function calculator
