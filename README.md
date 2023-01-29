@@ -3,7 +3,7 @@
 https://www.codecademy.com/learn/paths/computer-science
 
 ```
- USCC (Ultra Super Calculation Computer) Headquarter's Instruction Set Architecture RISC
+ USCC (Ultra Super Calculation Computer) Headquarter's Instruction Set Architecture
 
   System Design:
    - Four function calculator
