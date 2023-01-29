@@ -8,7 +8,7 @@ Overall this was just a really cool project to build.
 
 As a result I ended up learning a lot about how ISA's (Instruction Set Architecture) function such as:
 
-* `CISC (Complex Instruction Set Computer)` - 
+* `CISC (Complex Instruction Set Computer)`
 * `RISC (Reduced Instruction Set Computer)`
 * `MIPS (Microprocessor without Interlocked Pipelined Stages)`
 
