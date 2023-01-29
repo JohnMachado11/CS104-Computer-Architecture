@@ -2,6 +2,16 @@
 
 https://www.codecademy.com/learn/paths/computer-science
 
+The code for this project is largely designed by Codecademy authors, I do not take full credit for it. I did however add a couple of methods of my own to the class as well as error catching in some areas of the code. I also added a "Binary Template" at the bottom of main.py to aid the user in sending instructions to the program.
+
+Overall this was just a really cool project to build. 
+
+As a result I ended up learning a lot about how ISA's (Instruction Set Architecture) function such as:
+
+* `CISC (Complex Instruction Set Computer)` - 
+* `RISC (Reduced Instruction Set Computer)`
+* `MIPS (Microprocessor without Interlocked Pipelined Stages)`
+
 ```
  USCC (Ultra Super Calculation Computer) Headquarter's Instruction Set Architecture
 
