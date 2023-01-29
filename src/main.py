@@ -204,12 +204,12 @@ my_calculator = UltraSuperCalculator("John")
 # to Store value to next register or Return previous calculation  
 # 000000
 # -------------------------------------------------------
-# Currently set to numbers_register index position of 1,
-# modify to point to specific address in register
+# Currently set to numbers_register index position of 1, modify to point to specific address in
+# register. If OPCODE your OPCODE 000001 (store in register), set this binary to all zeros 0.  
 # 00001
 # -------------------------------------------------------
-# Currently set to numbers_register index position of 2, 
-# modify to point to specific address in register
+# Currently set to numbers_register index position of 2, modify to point to specific address in
+# register. If OPCODE your OPCODE 000001 (store in register), set this binary to all zeros 0.  
 # 00010 = int 2
 # -------------------------------------------------------
 # Store in number_register - If your OPCODE is 000001, change this portion of the binary
