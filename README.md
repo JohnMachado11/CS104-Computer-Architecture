@@ -56,4 +56,5 @@ As a result I ended up learning a lot about how ISA's (Instruction Set Architect
  | 100001 |  000000  | Return previous calculation         |
  +--------+----------+-------------------------------------+
 ```
-
+Image credit: Codecademy
+![Imgur Image](https://i.imgur.com/XMuLwk0.jpg)
