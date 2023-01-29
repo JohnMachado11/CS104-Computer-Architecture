@@ -2,7 +2,7 @@
 
 https://www.codecademy.com/learn/paths/computer-science
 
-The code for this project is largely designed by Codecademy authors, I do not take full credit for it. I did however add a couple of methods of my own to the class as well as error catching in some areas of the code. I also added a "Binary Template" at the bottom of main.py to aid the user in sending instructions to the program.
+The code for this project is largely designed by Codecademy authors, I do not take full credit for it. I did however add a couple of methods of my own to the `UltraSuperCalculator` class as well as error catching in some areas of the code. I also added a "Binary Template" at the bottom of main.py to aid the user in sending instructions to the program.
 
 Overall this was just a really cool project to build. 
 
