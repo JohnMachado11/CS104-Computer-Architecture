@@ -200,23 +200,25 @@ my_calculator = UltraSuperCalculator("John")
 # Binary code example for Adding values at index 1 and 2 in numbers_register together
 # 000000 00001 00010 0000000000 100000
 # -------------------------------------------------------
-# Currently set to Add / Subtract / Multiply / Divide instructions, modify opcode
-# to Store value to next register or Return previous calculation  
+# This is the OPCODE and it is urrently set to Add / Subtract / Multiply / Divide instructions. 
+# Modify OPCODE to store value to next register or return previous calculation. 
 # 000000
 # -------------------------------------------------------
-# Currently set to numbers_register index position of 1, modify to point to specific address in
-# register. If OPCODE your OPCODE 000001 (store in register), set this binary to all zeros 0.  
+# Currently set to numbers_register index position of 1, modify to point to specific address in register. 
+# If your OPCODE is 000001 (store in next register) or 100001 (return previous calculation), set this 
+# section binary to all zeros, 000000.
 # 00001
 # -------------------------------------------------------
-# Currently set to numbers_register index position of 2, modify to point to specific address in
-# register. If OPCODE your OPCODE 000001 (store in register), set this binary to all zeros 0.  
+# Currently set to numbers_register index position of 2, modify to point to specific address in register. 
+# If your OPCODE is 000001 (store value to next register) or 100001 (return previous calculation), set 
+# this binary section to all zeros, 000000.
 # 00010 = int 2
 # -------------------------------------------------------
 # Store in number_register - If your OPCODE is 000001, change this portion of the binary
 # to represent the number you want stored in the number_register. e.g. 0000000101 = 5
 # 0000000000
 # -------------------------------------------------------
-# Function code which is currently set to Add. Modify function code to either Subtract,  
+# FUNCTION code which is currently set to Add. Modify FUNCTION code to either Subtract,  
 # Multiply, Divide. Or change it so you can Store value to next register or return the 
 # previous calculation.   
 # 100000
